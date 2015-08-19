@@ -71,7 +71,7 @@ Allow for other players to do the same, switching screens each time each players
 as all the players begin to finish their turns, a message pops up indicating to enter showdown, an environment
 which checks player hands to see which is the best.
 ```
-  >>> Please press enter to showdown..
+$ Please press enter to showdown..
 ```
 
 The checkHandCombo() method takes in the Player's hand and evaluates the number of pairs or any other
